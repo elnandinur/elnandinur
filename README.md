@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer GIF" width="400" height="300">
+</p>
+
+<p align="center">
+  💎 💎 💎 <br>
+  Coding enthusiast. Someone who love learn something new. <br>
+  Especially about web programming and Mobile programming. <br
+</p>
+
 # Hi there, I'm Elnandi Nur 👋
 
 ![Profile views](https://gpvc.arturio.dev/elnandinur) <!-- Hit Counter -->
