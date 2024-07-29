@@ -10,11 +10,10 @@
 
 # Hi there, I'm Elnandi Nur 👋
 
-![Profile views](https://gpvc.arturio.dev/elnandinur) <!-- Hit Counter -->
+I am a passionate developer with experience in various programming languages and technologies. I love solving complex problems and creating innovative solutions.
+I've worked on various projects ranging from simple websites to complex enterprise-level applications. My goal is to create user-friendly, efficient, and scalable solutions that meet client requirements and provide an exceptional user experience.
 
 ## About Me
-
-I am a passionate developer with experience in various programming languages and technologies. I love solving complex problems and creating innovative solutions.
 
 - 🔭 I’m currently working on [Project Name](project link)
 - 🌱 I’m currently learning [Technology/Learning Path]
