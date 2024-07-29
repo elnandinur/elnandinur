@@ -23,9 +23,23 @@ I am a passionate developer with experience in various programming languages and
 
 ## 🚀 Skills
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
-- **Frameworks/Libraries**: ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker) ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visual-studio-code)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express" alt="Express">
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws" alt="AWS">
+  <img src="https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Sass-pink?style=flat&logo=sass" alt="Sass">
+  <img src="https://img.shields.io/badge/-Webpack-blue?style=flat&logo=webpack" alt="Webpack">
+  <img src="https://img.shields.io/badge/-Babel-yellow?style=flat&logo=babel" alt="Babel">
+</p>
 
 ## 🏆 Achievements
 
