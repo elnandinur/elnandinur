@@ -10,7 +10,7 @@
 
 # Hi there, I'm Elnandi Nur 👋
 
-I am a passionate developer with experience in various programming languages and technologies. I love solving complex problems and creating innovative solutions.
+I am a passionate developer with experience in various programming languages and technologies. I love solving complex problems and creating innovative solutions. a passionate Full Stack Developer with a strong background in both front-end and back-end development. I enjoy building scalable web applications and continuously learning new technologies to improve my skills.
 I've worked on various projects ranging from simple websites to complex enterprise-level applications. My goal is to create user-friendly, efficient, and scalable solutions that meet client requirements and provide an exceptional user experience.
 
 ## About Me
