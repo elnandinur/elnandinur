@@ -39,6 +39,9 @@ I am a passionate developer with experience in various programming languages and
   <img src="https://img.shields.io/badge/-Sass-pink?style=flat&logo=sass" alt="Sass">
   <img src="https://img.shields.io/badge/-Webpack-blue?style=flat&logo=webpack" alt="Webpack">
   <img src="https://img.shields.io/badge/-Babel-yellow?style=flat&logo=babel" alt="Babel">
+  <img src="https://img.shields.io/badge/-Laravel-white?style=flat&logo=laravel" alt="Laravel">
+  <img src="https://img.shields.io/badge/-Vue-white?style=flat&logo=vue.js" alt="Vue">
+  <img src="https://img.shields.io/badge/-Nuxt-black?style=flat&logo=nuxt.js" alt="Nuxt">
 </p>
 
 ## 🏆 Achievements
