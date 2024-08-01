@@ -8,9 +8,11 @@
   Especially about web programming and Mobile programming. <br
 </p>
 
+
 # Hi there, I'm Elnandi Nur 👋
 
 I am a passionate developer with experience in various programming languages and technologies. I love solving complex problems and creating innovative solutions. a passionate Full Stack Developer with a strong background in both front-end and back-end development. I enjoy building scalable web applications and continuously learning new technologies to improve my skills.
+
 
 ## About Me
 
@@ -20,6 +22,7 @@ I am a passionate developer with experience in various programming languages and
 - 💬 Ask me about mobile and web development
 - 📫 How to reach me: elnandi.nur@ui.ac.id
 - ⚡ Fun fact: I love experimenting with new programming languages and frameworks in my spare time.
+
 
 ## 🚀 Skills
 
@@ -43,7 +46,9 @@ I am a passionate developer with experience in various programming languages and
   <img src="https://img.shields.io/badge/-Vue-white?style=flat&logo=vue.js" alt="Vue">
   <img src="https://img.shields.io/badge/-Nuxt-black?style=flat&logo=nuxt.js" alt="Nuxt">
   <img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter" alt="Flutter">
+  <img src="https://img.shields.io/badge/-Codeigniter-white?style=flat&logo=codeigniter" alt="CodeIgniter">
 </p>
+
 
 ## 🏆 Achievements
 
@@ -53,10 +58,14 @@ I am a passionate developer with experience in various programming languages and
 - 🥉 3rd Place in Innovative Educational Staff - Group Category 2020, Faculty of Administrative Sciences
 - 🥉 3rd Place in High-Performing Educational Staff 2022, Faculty of Administrative Sciences
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elnandinur&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elnandinur&layout=compact)
+## 🛠️ Tech Stack
+
+- **Languages:** Dart, JavaScript, HTML, CSS, PHP
+- **Frameworks/Libraries:** Flutter, React, Node.js, Express.js, Laravel, CodeIgniter, Nuxt, Vue
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, VS Code, Postman
+
 
 ## 📫 Connect with me:
 
