@@ -52,6 +52,7 @@ I am a passionate developer with experience in various programming languages and
 
 ## 🏆 Achievements
 
+- 🥈 2nd Place in Innovative Educational Staff - Individual Category 2024, Universitas Indonesia
 - 🥇 1st Place in Outstanding Educational Staff - Group Category 2023, Universitas Indonesia
 - 🥇 1st Place in Innovative Educational Staff - Individual Category 2020, Faculty of Administrative Sciences
 - 🥈 2nd Place in Innovative Educational Staff - Group Category 2020, Faculty of Administrative Sciences
