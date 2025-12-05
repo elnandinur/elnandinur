@@ -16,7 +16,7 @@ I am a passionate developer with experience in various programming languages and
 
 ## About Me
 
-- 🔭 I’m currently working on [Fakultas Ilmu Administrasi Universitas Indonesia](https://fia.ui.ac.id/).
+- 🔭 I’m currently working on [Universitas Indonesia](https://ui.ac.id/).
 - 🌱 I’m currently learning Flutter development.
 - 👯 I’m looking to collaborate on Full stack development projects.
 - 💬 Ask me about mobile and web development
