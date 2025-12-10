@@ -62,10 +62,10 @@ I am a passionate developer with experience in various programming languages and
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Dart, JavaScript, HTML, CSS, PHP
-- **Frameworks/Libraries:** Flutter, React, Node.js, Express.js, Laravel, CodeIgniter, Nuxt, Vue
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, VS Code, Postman
+- **Languages:** Dart, JavaScript, HTML, CSS, PHP, Go
+- **Frameworks/Libraries:** Flutter, React, Node.js, Express.js, Laravel, CodeIgniter, Nuxt, Vue, Golang
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, VS Code, Postman, DBeaver
 
 
 ## 📫 Connect with me:
